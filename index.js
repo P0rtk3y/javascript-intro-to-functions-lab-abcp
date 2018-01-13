@@ -26,17 +26,15 @@ function sayHiToGrandma(string){
   return string.toLowerCase()
 }
 
-sayHiToGrandma()
+sayHiToGrandma("I can't hear you!")
 
 function sayHiToGrandma(string){
   console.log(string.toUpperCase())
 }
 
-sayHiToGrandma()
-
+sayHiToGrandma("YES INDEED!")
 
 function sayHiToGrandma(string){
-  if (string === "I love you, Grandma")
   return "I love you, too."
 }
 
