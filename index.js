@@ -32,4 +32,6 @@ function sayHiToGrandma(string){
 }
 }
 
+sayHiToGrandma("i love you, grandma")
+sayHiToGranmda("I LOVE YOU, GRANDMA")
 sayHiToGrandma("I love you, Grandma.")
